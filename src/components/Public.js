@@ -13,13 +13,13 @@ export default function Public() {
                     Dan D. Reparos<br />
                     555 Foo Drive<br />
                     Foo City, CA 12345<br />
-                    <a href="tel:+15555555555">(555) 555-5555</a>
+                    <a href="tel:+15555555555">(99)999999999</a>
                 </address>
                 <br />
-                <p>Owner: Dan Davidson</p>
+                <p>Dono: Dan Davidson</p>
             </main>
             <footer>
-                <Link to="/login">Employee Login</Link>
+                <Link to="/login">Login Funcionario</Link>
             </footer>
         </section>
 
